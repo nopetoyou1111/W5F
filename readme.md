@@ -1,8 +1,9 @@
-<h1 align="center">Welcome to WF5 </h1>
+---
+<h1 align="center">Welcome to WF5 👋</h1>
   <h1 algin="left">Demo</h1>
   <br />
   <h1 algin="left">demo gif 🏞️</h1>
-  <br ><br ><br ><br ><br >
+  <br ><br >
 <h2>🛠️ Installation Steps:</h2>
 
 <p>For Windows Users:</p>
